@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahurta92
 - 👀 I’m interested in scientific and educational software development.
 - 🌱 I’m currently learning how to development and maintain a research quality software application.
-- 💞️ I’m looking to collaborate on educational tools that will make research quality software applications for accessible for students.
+- 💞️ I’m looking to collaborate on educational tools that will make research quality software applications for students and researchers
 - 📫 How to reach me at my email adrian.hurtado@stonybrook.edu.
 
 <!---
